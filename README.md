@@ -1,0 +1,6 @@
+YOU CAN EDIT THIS SOURCE CODE HOWEVER YOU LIKE.
+
+YOU MUST HAVE PYGAME AND PYTHON INSTALLED BY DOING THIS ON CMD:
+pip install pygame, pip install python (or by the website)
+
+HAVE FUN!
